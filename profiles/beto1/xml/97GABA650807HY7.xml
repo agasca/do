@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Comprobante xmlns="http://www.sat.gob.mx/cfd/2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/2 http://www.sat.gob.mx/sitio_internet/cfd/2/cfdv22.xsd " noCertificado="00001000000202118713" metodoDePago="Cheque" formaDePago="Pago en una sola exhibición" anoAprobacion="2010" noAprobacion="185627" certificado="MIIEYjCCA0qgAwIBAgIUMDAwMDEwMDAwMDAyMDIxMTg3MTMwDQYJKoZIhvcNAQEFBQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lzbmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERpc3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlhIEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTAxMTA0NDQyNFoXDTE2MTAxMTA0NDQyNFowgaMxHTAbBgNVBAMTFEFMQkVSVE8gR0FTQ0EgQkVSTkFMMR0wGwYDVQQpExRBTEJFUlRPIEdBU0NBIEJFUk5BTDEdMBsGA1UEChMUQUxCRVJUTyBHQVNDQSBCRVJOQUwxFjAUBgNVBC0TDUdBQkE2NTA4MDdIWTcxGzAZBgNVBAUTEkdBQkE2NTA4MDdIREZTUkwwOTEPMA0GA1UECxMGTUFUUklaMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCnNJykq8f4Ld7ShiJ+S8ErQLvMGWRZt00LFmf/zW5QyFHU4Boqc0XnU+gJMZRzSzQ8cv6tUT1wGqLBeUN8IaFO6pWOIR3/sE8FOlLsk7qjuUwwVhPlpVvY6v3mg3Vbz6ztQh+dDVB0qvEAaD/mYp9sN8CvQrYySMWc/SrAxV/IMwIDAQABox0wGzAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAMwW2SS/zfsMcSTQIn3G5goDW4/BrNvB4pl3KVJ6c8YlIBWO3XP84+uI/p58lF6chalSJOMO/84ZX5K0j/FQNGQVtfFi2bVLj9u4VKYp8CcjAV4n1AMD+eZ14qOE5n13UEKeRoDqbR38KyS2IQDYB+3bqlrzXKvxyGFehkNrH2omn28Q9Hdj9yNzLjS+MSCy59aY5kSLLa9j1JKfKW66fnCNtD65s5YbyolvaO1y9gVuHN/BbsCqLPcvx+AvkVe/PRaIUeKIa/LBA442A8n03Lj4W4qFJDA4J9JCFwAbHhTb05Ha7wqc0tp9lqgqenu6t2i4cdtSirP+Grh70kInB7g==" sello="RIXAnZlbfmEW+jNLSzGssIcmAnrpehOploNXKMBfD1qCRIV6FMu/HoDhZIJIl1XBaZcGF3p2V9O1odWwMiKEEdeCRkAiGOE988iW3KAxSrNd36Tx2UjitbHYxoflBtUGko41fygK84sPTnP12n67T428JZFLzbK+TexSZRqGylk=" fecha="2013-01-29T08:45:04" subTotal="1772.00" total="2055.52" folio="97" tipoDeComprobante="ingreso" LugarExpedicion="Benito Juárez, Distrito Federal" Moneda="MXN" version="2.2">
+    <Emisor rfc="GABA650807HY7" nombre="ALBERTO GASCA BERNAL">
+        <DomicilioFiscal calle="AVENIDA COYOACAN" noExterior="739-D" colonia="DEL VALLE CENTRO" localidad="BENITO JUAREZ" municipio="Benito Juárez" estado="Distrito Federal" pais="México" codigoPostal="03100"/>
+        <ExpedidoEn calle="AVENIDA COYOACAN" noExterior="739-D" colonia="DEL VALLE CENTRO" localidad="BENITO JUAREZ" municipio="Benito Juárez" estado="Distrito Federal" pais="México" codigoPostal="03100"/>
+        <RegimenFiscal Regimen="Actividad Empresarial y Profesional"/>
+    </Emisor>
+    <Receptor rfc="FVA700127Q40" nombre="FLORERIA DEL VALLE S.A. DE C.V.">
+        <Domicilio calle="AMORES" noExterior="1501" colonia="DEL VALLE" municipio="BENITO JUAREZ" estado="DISTRITO FEDERAL" pais="México" codigoPostal="03100"/>
+    </Receptor>
+    <Conceptos>
+        <Concepto cantidad="1.00" unidad="No aplica" descripcion="SERVICIO PROFESIONAL DE COMPUTO" valorUnitario="1772.00" importe="1772.00"/>
+    </Conceptos>
+    <Impuestos totalImpuestosTrasladados="283.52">
+        <Traslados>
+            <Traslado tasa="16.0000" importe="283.52" impuesto="IVA"/>
+        </Traslados>
+    </Impuestos>
+</Comprobante>
